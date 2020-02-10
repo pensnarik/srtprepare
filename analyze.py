@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 
+import os
 import sys
 import tty
 import json
+import datetime as dt
 
 try:
     import msvcrt
@@ -51,7 +53,7 @@ if len(sys.argv) < 2:
 
 state = 'searching_word'
 data = prepare(sys.argv[1])
-db = json.loads(open('db.json', 'rt').read())
+db = json.loads(open('db-new.json', 'rt').read())
 
 words = []
 
@@ -139,6 +141,8 @@ while True:
         print(get_context(word))
         pos = 0
         continue
-    db.update({word: ch})
-    with open('db.json', 'wt') as f:
+    db.update({word: {'status': ch,
+               'source': os.path.basename(sys.argv[1]),
+               'dt': dt.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')}})
+    with open('db-new.json', 'wt') as f:
         f.write(json.dumps(db, indent=4, sort_keys=True))
