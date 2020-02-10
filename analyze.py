@@ -158,8 +158,8 @@ while True:
     pos = 1
     print(word)
     ch = ''
-    while ch not in ('W', 'N', 'Y', '?', 'Q', 'B', 'C', 'T'):
-        print("[W] Not a word, [N] Name, [Y] Known word, [?] Not a known word, [B] Back, [C] Context, [T] Translate, [Q] Exit: ")
+    while ch not in ('W', 'N', 'Y', 'U', 'Q', 'B', 'C', 'T'):
+        print("[W] Not a word, [N] Name, [Y] Known word, [U] Unknown word, [B] Back, [C] Context, [T] Translate, [Q] Exit: ")
         ch = getch().upper()
     if ch == 'Q':
         sys.exit(0)
