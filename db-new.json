@@ -1311,6 +1311,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "butterflies": {
+        "dt": "2020-02-10 14:57:00 UTC",
+        "source": "the-show-must-go-on.txt",
+        "status": "Y"
+    },
     "buzzes": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -1935,6 +1940,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "corner": {
+        "dt": "2020-02-10 14:57:01 UTC",
+        "source": "the-show-must-go-on.txt",
+        "status": "Y"
+    },
     "cost": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -2051,6 +2061,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "curtain": {
+        "dt": "2020-02-10 14:57:02 UTC",
+        "source": "the-show-must-go-on.txt",
+        "status": "Y"
+    },
     "custody": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -2093,6 +2108,11 @@
     },
     "dare": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "dark": {
+        "dt": "2020-02-10 14:57:03 UTC",
+        "source": "the-show-must-go-on.txt",
         "status": "Y"
     },
     "dary": {
@@ -2883,6 +2903,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "fairy": {
+        "dt": "2020-02-10 14:57:06 UTC",
+        "source": "the-show-must-go-on.txt",
+        "status": "Y"
+    },
     "fake": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -3042,6 +3067,11 @@
     "flailing": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "?"
+    },
+    "flaking": {
+        "dt": "2020-02-10 14:57:07 UTC",
+        "source": "the-show-must-go-on.txt",
+        "status": "Y"
     },
     "flapper": {
         "added": "2020-02-10 14:38:33 UTC",
@@ -3483,6 +3513,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "grin": {
+        "dt": "2020-02-10 14:57:08 UTC",
+        "source": "the-show-must-go-on.txt",
+        "status": "Y"
+    },
     "grow": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -3695,6 +3730,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "heartache": {
+        "dt": "2020-02-10 14:57:10 UTC",
+        "source": "the-show-must-go-on.txt",
+        "status": "Y"
+    },
     "heartbeat": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -3753,6 +3793,11 @@
     },
     "here": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "hero": {
+        "dt": "2020-02-10 14:57:11 UTC",
+        "source": "the-show-must-go-on.txt",
         "status": "Y"
     },
     "hers": {
@@ -4555,6 +4600,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "learning": {
+        "dt": "2020-02-10 14:57:12 UTC",
+        "source": "the-show-must-go-on.txt",
+        "status": "Y"
+    },
     "least": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -4911,6 +4961,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "makeup": {
+        "dt": "2020-02-10 14:57:13 UTC",
+        "source": "the-show-must-go-on.txt",
+        "status": "Y"
+    },
     "making": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -5121,6 +5176,11 @@
     },
     "mind": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "mindless": {
+        "dt": "2020-02-10 14:57:14 UTC",
+        "source": "the-show-must-go-on.txt",
         "status": "Y"
     },
     "minds": {
@@ -5643,6 +5703,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "overkill": {
+        "dt": "2020-02-10 14:57:15 UTC",
+        "source": "the-show-must-go-on.txt",
+        "status": "Y"
+    },
     "overrated": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -5661,6 +5726,11 @@
     },
     "painful": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "painted": {
+        "dt": "2020-02-10 14:57:16 UTC",
+        "source": "the-show-must-go-on.txt",
         "status": "Y"
     },
     "painting": {
@@ -5682,6 +5752,11 @@
     "pansy": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "?"
+    },
+    "pantomime": {
+        "dt": "2020-02-10 14:57:18 UTC",
+        "source": "the-show-must-go-on.txt",
+        "status": "Y"
     },
     "paper": {
         "added": "2020-02-10 14:38:33 UTC",
@@ -6559,6 +6634,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "romance": {
+        "dt": "2020-02-10 14:57:19 UTC",
+        "source": "the-show-must-go-on.txt",
+        "status": "Y"
+    },
     "roof": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -6570,6 +6650,11 @@
     "rope": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "?"
+    },
+    "round": {
+        "dt": "2020-02-10 14:57:19 UTC",
+        "source": "the-show-must-go-on.txt",
+        "status": "Y"
     },
     "roundhouse": {
         "added": "2020-02-10 14:38:33 UTC",
@@ -7771,6 +7856,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "tales": {
+        "dt": "2020-02-10 14:57:21 UTC",
+        "source": "the-show-must-go-on.txt",
+        "status": "Y"
+    },
     "talk": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -8543,6 +8633,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "warmer": {
+        "dt": "2020-02-10 14:57:22 UTC",
+        "source": "the-show-must-go-on.txt",
+        "status": "Y"
+    },
     "warn": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -8737,6 +8832,11 @@
     },
     "wing": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "wings": {
+        "dt": "2020-02-10 14:57:22 UTC",
+        "source": "the-show-must-go-on.txt",
         "status": "Y"
     },
     "winning": {
