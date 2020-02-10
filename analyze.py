@@ -155,6 +155,7 @@ while True:
     if word in db.keys() and pos > 0:
         continue
     pos = 1
+    translation = None
     print(word)
     ch = ''
     while ch not in ('W', 'N', 'Y', '?', 'Q', 'B', 'C', 'T'):
@@ -164,18 +165,26 @@ while True:
         sys.exit(0)
     if ch == 'B':
         pos = -1
+        translation = None
         continue
     if ch == 'C':
         print(get_context(word))
         pos = 0
         continue
     if ch == 'T':
-        print(translate(word))
+        translation = translate(word)
+        print('Translation: %s' % with_color('yellow', translation))
         pos = 0
         continue
 
-    db.update({word: {'status': ch,
-               'source': os.path.basename(sys.argv[1]),
-               'dt': dt.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')}})
+    word = {'status': ch,
+            'source': os.path.basename(sys.argv[1]),
+            'dt': dt.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')}
+
+    if translation is not None:
+        word.update({'translation': translation})
+
+    db.update(word)
+
     with open('db-new.json', 'wt') as f:
         f.write(json.dumps(db, indent=4, sort_keys=True))
