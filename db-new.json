@@ -1911,12 +1911,12 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
-    "ch\u00e2teau": {
+    "château": {
         "dt": "2020-02-10 16:24:06 UTC",
         "source": "the-matrix-reloaded.txt",
         "status": "W"
     },
-    "ch\u00e9rie": {
+    "chérie": {
         "dt": "2020-02-10 16:24:08 UTC",
         "source": "the-matrix-reloaded.txt",
         "status": "W"
@@ -3159,12 +3159,28 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "downed": {
+        "dt": "2020-02-10 16:40:53 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "?"
+    },
+    "download": {
+        "dt": "2020-02-10 16:42:39 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y",
+        "translation": "скачать"
+    },
     "dozer": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "N"
     },
     "drafting": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "drank": {
+        "dt": "2020-02-10 16:42:41 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "drawback": {
@@ -3177,6 +3193,11 @@
     },
     "dream": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "dreamed": {
+        "dt": "2020-02-10 16:42:42 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "dreaming": {
@@ -3231,6 +3252,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "due": {
+        "dt": "2020-02-10 16:42:42 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "duffel": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "?"
@@ -3271,7 +3297,7 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
-    "d\u00e9j\u00e0": {
+    "déjà": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "W"
     },
@@ -3295,8 +3321,18 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "easier": {
+        "dt": "2020-02-10 16:42:43 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "easy": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "eat": {
+        "dt": "2020-02-10 16:42:44 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "eating": {
@@ -3311,8 +3347,28 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "?"
     },
+    "effect": {
+        "dt": "2020-02-10 16:42:44 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "efficient": {
+        "dt": "2020-02-10 16:42:45 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "efforts": {
+        "dt": "2020-02-10 16:42:59 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "eggs": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "eight": {
+        "dt": "2020-02-10 16:43:00 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "eighth": {
@@ -3331,6 +3387,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "electricity": {
+        "dt": "2020-02-10 16:43:01 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "electromagnetic": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -3339,12 +3400,42 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "eliminate": {
+        "dt": "2020-02-10 16:43:01 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "ellenberg": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "N"
     },
     "else": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "eluded": {
+        "dt": "2020-02-10 16:43:03 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "emergence": {
+        "dt": "2020-02-10 16:43:04 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "emergency": {
+        "dt": "2020-02-10 16:43:05 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "emotion": {
+        "dt": "2020-02-10 16:43:06 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "emp": {
+        "dt": "2020-02-10 16:43:07 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "employee": {
@@ -3371,6 +3462,21 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "encrypted": {
+        "dt": "2020-02-10 16:43:09 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "encryption": {
+        "dt": "2020-02-10 16:43:09 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "end": {
+        "dt": "2020-02-10 16:43:10 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "ended": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -3387,6 +3493,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "enemies": {
+        "dt": "2020-02-10 16:43:11 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "enemy": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -3397,6 +3508,11 @@
     },
     "engaged": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "engineering": {
+        "dt": "2020-02-10 16:43:11 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "engines": {
@@ -3411,6 +3527,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "entered": {
+        "dt": "2020-02-10 16:43:12 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "entire": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -3423,6 +3544,21 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "?"
     },
+    "equaled": {
+        "dt": "2020-02-10 16:43:13 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "equation": {
+        "dt": "2020-02-10 16:43:13 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "equations": {
+        "dt": "2020-02-10 16:43:15 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "equilibrium": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "?"
@@ -3430,6 +3566,12 @@
     "equipment": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
+    },
+    "eradicated": {
+        "dt": "2020-02-10 16:43:23 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y",
+        "translation": "искоренить"
     },
     "ergo": {
         "added": "2020-02-10 14:38:33 UTC",
@@ -3439,12 +3581,32 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "N"
     },
+    "escalating": {
+        "dt": "2020-02-10 16:43:25 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "escalator": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
     "escape": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "escaping": {
+        "dt": "2020-02-10 16:43:26 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "escort": {
+        "dt": "2020-02-10 16:43:27 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "especially": {
+        "dt": "2020-02-10 16:43:28 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "esquire": {
@@ -3455,12 +3617,27 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "N"
     },
+    "estimates": {
+        "dt": "2020-02-10 16:43:28 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "ethel": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "N"
     },
+    "evacuate": {
+        "dt": "2020-02-10 16:43:30 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "even": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "eventuality": {
+        "dt": "2020-02-10 16:43:31 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "eventually": {
@@ -3495,12 +3672,28 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "exact": {
+        "dt": "2020-02-10 16:43:31 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "exactly": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
     "example": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "exceedingly": {
+        "dt": "2020-02-10 16:43:40 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y",
+        "translation": "чрезвычайно"
+    },
+    "except": {
+        "dt": "2020-02-10 16:43:41 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "excited": {
@@ -3527,8 +3720,19 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "exile": {
+        "dt": "2020-02-10 16:44:15 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "?",
+        "translation": "ссылку"
+    },
     "exist": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "existence": {
+        "dt": "2020-02-10 16:44:19 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "exists": {
@@ -3541,6 +3745,11 @@
     },
     "exits": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "expected": {
+        "dt": "2020-02-10 16:44:20 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "expecting": {
@@ -3559,6 +3768,36 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "explanation": {
+        "dt": "2020-02-10 16:44:21 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "explanations": {
+        "dt": "2020-02-10 16:44:22 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "explosives": {
+        "dt": "2020-02-10 16:44:23 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "expressed": {
+        "dt": "2020-02-10 16:44:24 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "extermination": {
+        "dt": "2020-02-10 16:44:26 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "extinction": {
+        "dt": "2020-02-10 16:44:27 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "extra": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -3573,6 +3812,21 @@
     },
     "face": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "faced": {
+        "dt": "2020-02-10 16:44:27 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "faces": {
+        "dt": "2020-02-10 16:44:28 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "facilitating": {
+        "dt": "2020-02-10 16:44:29 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "facing": {
@@ -3593,6 +3847,16 @@
     },
     "failed": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "fails": {
+        "dt": "2020-02-10 16:44:30 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "failure": {
+        "dt": "2020-02-10 16:44:31 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "fair": {
@@ -3632,6 +3896,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "far": {
+        "dt": "2020-02-10 16:44:32 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "fashioned": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -3668,6 +3937,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "feeding": {
+        "dt": "2020-02-10 16:44:32 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "feel": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -3684,12 +3958,27 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "fellas": {
+        "dt": "2020-02-10 16:44:33 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "felt": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "female": {
+        "dt": "2020-02-10 16:44:34 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "fending": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "few": {
+        "dt": "2020-02-10 16:44:35 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "fianc": {
@@ -3708,6 +3997,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "N"
     },
+    "fifth": {
+        "dt": "2020-02-10 16:44:37 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "fight": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -3716,8 +4010,18 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "figure": {
+        "dt": "2020-02-10 16:44:37 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "figured": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "filled": {
+        "dt": "2020-02-10 16:44:38 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "films": {
@@ -3742,6 +4046,11 @@
     },
     "fire": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "fired": {
+        "dt": "2020-02-10 16:44:38 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "fireplace": {
@@ -3781,6 +4090,21 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "?"
     },
+    "flaw": {
+        "dt": "2020-02-10 16:44:39 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "flawed": {
+        "dt": "2020-02-10 16:44:40 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "flawless": {
+        "dt": "2020-02-10 16:44:40 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "fleet": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -3797,9 +4121,19 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "fluctuations": {
+        "dt": "2020-02-10 16:44:41 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "fluff": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "?"
+    },
+    "flutters": {
+        "dt": "2020-02-10 16:44:42 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
     },
     "fly": {
         "dt": "2020-02-10 15:06:45 UTC",
@@ -3871,6 +4205,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "forgive": {
+        "dt": "2020-02-10 16:44:43 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "forgotten": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -3881,6 +4220,11 @@
     },
     "forming": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "formulated": {
+        "dt": "2020-02-10 16:44:43 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "forom": {
@@ -3943,6 +4287,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "freeway": {
+        "dt": "2020-02-10 16:44:44 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "freeze": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -3983,12 +4332,67 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "frustrated": {
+        "dt": "2020-02-10 16:44:45 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "frustration": {
+        "dt": "2020-02-10 16:44:46 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "fucking": {
+        "dt": "2020-02-10 16:44:47 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "fulfilled": {
+        "dt": "2020-02-10 16:44:48 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "full": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "fully": {
+        "dt": "2020-02-10 16:44:49 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "fun": {
+        "dt": "2020-02-10 16:44:50 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "function": {
+        "dt": "2020-02-10 16:44:51 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "functioned": {
+        "dt": "2020-02-10 16:44:53 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "fundamental": {
+        "dt": "2020-02-10 16:44:55 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "fundamentally": {
+        "dt": "2020-02-10 16:44:56 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "funny": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "further": {
+        "dt": "2020-02-10 16:44:57 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "fusion": {
@@ -4023,12 +4427,27 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "gathered": {
+        "dt": "2020-02-10 16:44:58 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "gathering": {
+        "dt": "2020-02-10 16:44:58 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "gatsby": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "N"
     },
     "gave": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "general": {
+        "dt": "2020-02-10 16:44:59 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "generated": {
@@ -4051,12 +4470,22 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "geotherms": {
+        "dt": "2020-02-10 16:45:00 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "gestapo": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
     "gesture": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "get": {
+        "dt": "2020-02-10 16:45:01 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "gets": {
@@ -4111,9 +4540,20 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "?"
     },
+    "gnosis": {
+        "dt": "2020-02-10 16:45:13 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "N",
+        "translation": "гнозис"
+    },
     "goatee": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "?"
+    },
+    "god": {
+        "dt": "2020-02-10 16:45:25 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
     },
     "goddamn": {
         "added": "2020-02-10 14:38:33 UTC",
@@ -4151,6 +4591,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "goodness": {
+        "dt": "2020-02-10 16:45:26 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "goon": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -4167,12 +4612,27 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "got": {
+        "dt": "2020-02-10 16:45:26 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "gotcha": {
+        "dt": "2020-02-10 16:45:27 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "gotta": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
     "gotten": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "govern": {
+        "dt": "2020-02-10 16:45:30 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "grab": {
@@ -4189,6 +4649,11 @@
     },
     "grape": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "grateful": {
+        "dt": "2020-02-10 16:45:31 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "gravity": {
@@ -4223,6 +4688,12 @@
         "dt": "2020-02-10 14:57:08 UTC",
         "source": "the-show-must-go-on.txt",
         "status": "Y"
+    },
+    "grotesqueries": {
+        "dt": "2020-02-10 16:45:42 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y",
+        "translation": "гротеск"
     },
     "grow": {
         "added": "2020-02-10 14:38:33 UTC",
@@ -4264,8 +4735,18 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "guides": {
+        "dt": "2020-02-10 16:45:43 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "guilty": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "gun": {
+        "dt": "2020-02-10 16:45:44 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "guns": {
@@ -4286,6 +4767,11 @@
     },
     "hacking": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "had": {
+        "dt": "2020-02-10 16:45:45 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "hail": {
@@ -4312,6 +4798,26 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "halls": {
+        "dt": "2020-02-10 16:45:45 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "hallway": {
+        "dt": "2020-02-10 16:45:46 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "hamann": {
+        "dt": "2020-02-10 16:45:51 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "N"
+    },
+    "hammer": {
+        "dt": "2020-02-10 16:45:53 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "hand": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -4335,6 +4841,11 @@
     "handsome": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "?"
+    },
+    "handy": {
+        "dt": "2020-02-10 16:45:53 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
     },
     "hang": {
         "added": "2020-02-10 14:38:33 UTC",
@@ -4388,6 +4899,16 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "?"
     },
+    "harmony": {
+        "dt": "2020-02-10 16:45:54 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "has": {
+        "dt": "2020-02-10 16:45:55 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "hate": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -4430,6 +4951,11 @@
     },
     "heard": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "hearing": {
+        "dt": "2020-02-10 16:45:56 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "heart": {
@@ -4497,8 +5023,18 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "N"
     },
+    "her": {
+        "dt": "2020-02-10 16:45:57 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "here": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "hereby": {
+        "dt": "2020-02-10 16:45:58 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "hero": {
@@ -4508,6 +5044,16 @@
     },
     "hers": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "hey": {
+        "dt": "2020-02-10 16:46:22 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "hidden": {
+        "dt": "2020-02-10 16:46:23 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "hide": {
@@ -4526,12 +5072,27 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "him": {
+        "dt": "2020-02-10 16:46:25 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "himself": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "his": {
+        "dt": "2020-02-10 16:46:25 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "history": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "hit": {
+        "dt": "2020-02-10 16:46:34 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "hitchhiker": {
@@ -4556,6 +5117,11 @@
     },
     "holding": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "holds": {
+        "dt": "2020-02-10 16:46:35 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "hole": {
@@ -4614,6 +5180,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "hopefully": {
+        "dt": "2020-02-10 16:46:36 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "hopelessly": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -4646,6 +5217,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "hot": {
+        "dt": "2020-02-10 16:46:36 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "hotter": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -4664,6 +5240,16 @@
     },
     "hovercraft": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "how": {
+        "dt": "2020-02-10 16:46:37 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "however": {
+        "dt": "2020-02-10 16:46:37 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "huge": {
@@ -4722,6 +5308,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "husbands": {
+        "dt": "2020-02-10 16:46:47 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "hypocrites": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "?"
@@ -4729,6 +5320,11 @@
     "hypothetical": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
+    },
+    "icarus": {
+        "dt": "2020-02-10 16:46:52 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "N"
     },
     "ickey": {
         "added": "2020-02-10 14:38:33 UTC",
@@ -4754,6 +5350,11 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "illusion": {
+        "dt": "2020-02-10 16:46:54 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "image": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
@@ -4766,9 +5367,20 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "immediate": {
+        "dt": "2020-02-10 16:47:00 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
     "immediately": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
+    },
+    "imperfections": {
+        "dt": "2020-02-10 16:47:13 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "?",
+        "translation": "недостатки"
     },
     "implants": {
         "added": "2020-02-10 14:38:33 UTC",
@@ -4790,12 +5402,28 @@
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
+    "imprinted": {
+        "dt": "2020-02-10 16:47:23 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "?",
+        "translation": "впечатывается"
+    },
     "improvisation": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
     },
     "impulses": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "include": {
+        "dt": "2020-02-10 16:49:17 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "incoming": {
+        "dt": "2020-02-10 16:49:18 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "incredible": {
@@ -4808,6 +5436,11 @@
     },
     "individual": {
         "added": "2020-02-10 14:38:33 UTC",
+        "status": "Y"
+    },
+    "individuals": {
+        "dt": "2020-02-10 16:49:19 UTC",
+        "source": "the-matrix-reloaded.txt",
         "status": "Y"
     },
     "industry": {
@@ -4825,6 +5458,17 @@
     "inevitability": {
         "added": "2020-02-10 14:38:33 UTC",
         "status": "Y"
+    },
+    "inevitable": {
+        "dt": "2020-02-10 16:49:20 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "Y"
+    },
+    "inexorably": {
+        "dt": "2020-02-10 16:49:33 UTC",
+        "source": "the-matrix-reloaded.txt",
+        "status": "?",
+        "translation": "неумолимо"
     },
     "infected": {
         "added": "2020-02-10 14:38:33 UTC",
