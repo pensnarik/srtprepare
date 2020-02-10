@@ -21,6 +21,15 @@ except:
             termios.tcsetattr(fd, termios.TCSADRAIN, old_settings)
         return ch
 
+COLORS = {'red': 31, 'green': 32, 'yellow': 33, 'blue': 34}
+
+def with_color(c, s):
+    if isinstance(c, str):
+        color = COLORS.get(c, 39)
+    else:
+        color = c
+    return "\x1b[%dm%s\x1b[0m" % (color, s)
+
 def prepare(filename):
     state = 'looking_for_id'
     buffer = list()
@@ -86,7 +95,7 @@ stat = dict()
 for word in words:
     stat.update({word: stat.get(word, 0) + 1})
 
-s = sorted([[w, c] for w, c in stat.items() if len(w) > 3], key=lambda x: x)
+s = sorted([[w, c] for w, c in stat.items() if len(w) > 2], key=lambda x: x)
 
 # print('\n'.join('%s: %s' % (i[0], i[1]) for i in s))
 
@@ -114,8 +123,26 @@ def getnextword(pos=1):
 def get_context(word):
     for line in open(sys.argv[1], 'rt', encoding='utf', errors='ignore').readlines():
         if word.lower() in line.lower():
-            return line.strip()
+            return line.strip().replace(word, with_color('green', word))
     return '<Not found>'
+
+def translate(word):
+    with open('settings.json', 'rt') as f:
+        data = json.loads(f.read())
+
+    params = {'key': data['yandex.key'],
+              'text': word,
+              'lang': 'en-ru',
+              'format': 'plain'}
+
+    url = "https://translate.yandex.net/api/v1.5/tr.json/translate"
+
+    r = requests.get(url, params=params)
+    result = r.json()
+    if result['code'] == 200:
+        return result['text'][0]
+    else:
+        raise Exception('Could not translate')
 
 pos = 1
 
@@ -129,8 +156,8 @@ while True:
     pos = 1
     print(word)
     ch = ''
-    while ch not in ('W', 'N', 'Y', '?', 'Q', 'B', 'C'):
-        print("[W] Not a word, [N] Name, [Y] Known word, [?] Not a known word, [B] Back, [C] Context, [Q] Exit: ")
+    while ch not in ('W', 'N', 'Y', '?', 'Q', 'B', 'C', 'T'):
+        print("[W] Not a word, [N] Name, [Y] Known word, [?] Not a known word, [B] Back, [C] Context, [T] Translate, [Q] Exit: ")
         ch = getch().upper()
     if ch == 'Q':
         sys.exit(0)
@@ -141,6 +168,11 @@ while True:
         print(get_context(word))
         pos = 0
         continue
+    if ch == 'T':
+        print(translate(word))
+        pos = 0
+        continue
+
     db.update({word: {'status': ch,
                'source': os.path.basename(sys.argv[1]),
                'dt': dt.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')}})
