@@ -146,6 +146,7 @@ def translate(word):
         raise Exception('Could not translate')
 
 pos = 1
+translation = None
 
 while True:
     word = getnextword(pos)
@@ -155,7 +156,6 @@ while True:
     if word in db.keys() and pos > 0:
         continue
     pos = 1
-    translation = None
     print(word)
     ch = ''
     while ch not in ('W', 'N', 'Y', '?', 'Q', 'B', 'C', 'T'):
@@ -177,14 +177,16 @@ while True:
         pos = 0
         continue
 
-    word = {'status': ch,
+    data = {'status': ch,
             'source': os.path.basename(sys.argv[1]),
             'dt': dt.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')}
 
     if translation is not None:
-        word.update({'translation': translation})
+        data.update({'translation': translation})
 
-    db.update(word)
+    db.update({word: data})
 
     with open('db-new.json', 'wt') as f:
-        f.write(json.dumps(db, indent=4, sort_keys=True))
+        f.write(json.dumps(db, indent=4, sort_keys=True, ensure_ascii=False))
+
+    translation = None
