@@ -84,7 +84,7 @@ stat = dict()
 for word in words:
     stat.update({word: stat.get(word, 0) + 1})
 
-s = sorted([[w, c] for w, c in stat.items() if len(w) > 3], key=lambda x: len(x[0]))
+s = sorted([[w, c] for w, c in stat.items() if len(w) > 3], key=lambda x: x)
 
 # print('\n'.join('%s: %s' % (i[0], i[1]) for i in s))
 
