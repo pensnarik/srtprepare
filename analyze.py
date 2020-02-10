@@ -4,6 +4,7 @@ import os
 import sys
 import tty
 import json
+import requests
 import datetime as dt
 
 try:
